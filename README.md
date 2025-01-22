@@ -28,5 +28,5 @@ The goal of this project is to analyze Indian agricultural data using Power BI. 
 
 ## **Files Included** 
 - **Power BI File:** [ExhaustiveAnalysisOnIndianAgriculture.pbix](ExhaustiveAnalysisOnIndianAgriculture.pbix) 
-- **Documentation:** [PowerBIWeek1_Project_Documentation.docx](`PowerBIWeek1_Project_Documentation.docx`)  
+- **Documentation:** [PowerBIWeek1_Project_Documentation.docx](PowerBIWeek1_Project_Documentation.docx)  
 
